@@ -2,14 +2,11 @@
 
 spaApp is a simple Single Page Application (SPA) created using Laravel and Vue.js. It provides the following features:
 
-## Navigation
-- Seamless navigation between pages for a smooth user experience.
+## Features
 
-## User Authentication
-- User authentication functionality, allowing users to log in and log out.
-
-## Student Management
-- Ability to add, edit, and delete student records.
+- Navigation: Seamless navigation between pages for a smooth user experience.
+- User Authentication: User authentication functionality, allowing users to log in and log out.
+- Student Management: Ability to add, edit, and delete student records.
 
 This application was developed as part of a project for the Database Interface Design laboratory course, an academic subject focused on designing database interfaces.
 
